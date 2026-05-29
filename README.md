@@ -13,7 +13,6 @@ This repository contains my professional portfolio website, built for scholarshi
 
 Visit my portfolio here: **(https://my-portfolio-rrg.pages.dev)**
 
-*(Replace `your-project-name` with your actual Cloudflare Pages URL)*
 
 ## 🛠️ Technologies Used
 
