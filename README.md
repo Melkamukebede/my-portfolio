@@ -11,7 +11,7 @@ This repository contains my professional portfolio website, built for scholarshi
 
 ## 🌐 Live Demo
 
-Visit my portfolio here: **[https://your-project-name.pages.dev](https://your-project-name.pages.dev)**
+Visit my portfolio here: **[https://your-project-name.pages.dev](https://your-project-name.pages.dev](https://my-portfolio-rrg.pages.dev)**
 
 *(Replace `your-project-name` with your actual Cloudflare Pages URL)*
 
@@ -36,7 +36,6 @@ Visit my portfolio here: **[https://your-project-name.pages.dev](https://your-pr
 |----------|------|
 | GitHub Profile | [@Melkamukebede](https://github.com/Melkamukebede) |
 | ExamPro Platform | [exampro.pages.dev](https://exampro.pages.dev) |
-| Myportfolio Platform | [exampro.pages.dev]([https://exampro.pages.dev](https://my-portfolio-rrg.pages.dev) |
 | AI/ML Repository | [AI-ML-developer](https://github.com/Melkamukebede/AI-ML-deveeloper) |
 | Udacity Certificate | [Verify Online](https://www.udacity.com/certificate/e/07847352-0ef3-11f1-8693-db8e62b0f9a3) |
 
