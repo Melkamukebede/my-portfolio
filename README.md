@@ -11,7 +11,7 @@ This repository contains my professional portfolio website, built for scholarshi
 
 ## 🌐 Live Demo
 
-Visit my portfolio here: **[https://your-project-name.pages.dev](https://your-project-name.pages.dev](https://my-portfolio-rrg.pages.dev)**
+Visit my portfolio here: **(https://my-portfolio-rrg.pages.dev)**
 
 *(Replace `your-project-name` with your actual Cloudflare Pages URL)*
 
