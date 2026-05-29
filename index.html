@@ -468,15 +468,15 @@
     const baseCertRepo = "https://github.com/Melkamukebede/my-portfolio";
     
     // Assuming you add actual PDF files: android_cert.pdf and web_cert.pdf to that repo
-    androidLink.setAttribute('href', baseCertRepo + "android_dev_certificate.pdf");
+    androidLink.setAttribute('href', baseCertRepo);
     androidLink.setAttribute('target', '_blank');
-    webLink.setAttribute('href', baseCertRepo + "web_fullstack_cert.pdf");
+    webLink.setAttribute('href', baseCertRepo);
     webLink.setAttribute('target', '_blank');
     
     // Also handle bundle link fallback if needed
     const bundle = document.getElementById('bundleLink');
     if(bundle) {
-      bundle.setAttribute('href', baseCertRepo + "scholarship_supporting_files.pdf");
+      bundle.setAttribute('href', baseCertRepo);
       bundle.setAttribute('target', '_blank');
     }
     
