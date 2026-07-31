@@ -3,18 +3,18 @@
 [![Website](https://img.shields.io/badge/Website-Live-0f5c4b)](https://your-project-name.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-MelkamuKebede-181717)](https://github.com/Melkamukebede)
 
-## 🚀 About This Repository
+##  About This Repository
 
 This repository contains my professional portfolio website, built for scholarship applications. It showcases my academic journey at AASTU (519.19 entrance score), software development projects, certifications, and my vision in nuclear engineering & AI.
 
-## 📁 Project Structure
+##  Project Structure
 
-## 🌐 Live Demo
+##  Live Demo
 
 Visit my portfolio here: **(https://my-portfolio-rrg.pages.dev)**
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3 (Flexbox, Grid, Animations)
@@ -22,14 +22,14 @@ Visit my portfolio here: **(https://my-portfolio-rrg.pages.dev)**
 - Cloudflare Pages (Hosting)
 - Font Awesome Icons
 
-## 📄 Key Sections
+##  Key Sections
 
 - Academic Journey & Innovation Background
 - Featured Projects (AI/ML, ExamPro, Health Apps)
 - Certificates & Credentials (GitHub-hosted PDFs)
 - Future Goals: Nuclear Engineering + Tech Management
 
-## 🔗 Important Links
+##  Important Links
 
 | Platform | Link |
 |----------|------|
@@ -38,7 +38,7 @@ Visit my portfolio here: **(https://my-portfolio-rrg.pages.dev)**
 | AI/ML Repository | [AI-ML-developer](https://github.com/Melkamukebede/AI-ML-deveeloper) |
 | Udacity Certificate | [Verify Online](https://www.udacity.com/certificate/e/07847352-0ef3-11f1-8693-db8e62b0f9a3) |
 
-## 📧 Contact
+##  Contact
 
 **Melkamu Kebede**  
 Email: melkamu.kebede@aastu.edu.et  
