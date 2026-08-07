@@ -3,7 +3,7 @@
 
 <!-- HACKER BANNER -->
 <div align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/dev1/Melkamu-Kebede" alt="Developer Banner"/>
+  <img src="https://ishan-rest.vercel.app/svg/banner/dev/Melkamu-Kebede" alt="Developer Banner"/>
 </div>
 
 
