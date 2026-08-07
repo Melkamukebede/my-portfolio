@@ -1,11 +1,10 @@
 <!-- TOP ANIMATED WAVE BANNER -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Melkamu%20Kebede&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Android%20%26%20Web%20Developer%20%7C%20Builder%20%7C%20AASTU%20Ethiopia&descAlignY=58&descSize=18)](https://my-portfolio-rrg.pages.dev)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Melkamu%20Kebede&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Android%20%26%20Web%20Developer%20%7C%20Builder%20%7C%20AASTU%20Ethiopia&descAlignY=58&descSize=18)](https://my-portfolio-rrg.pages.dev)
 
 <!-- HACKER BANNER -->
 <div align="center">
   <img src="https://ishan-rest.vercel.app/svg/banner/dev/Melkamu-Kebede" alt="Developer Banner"/>
 </div>
-
 
 <!-- TYPING SVG -->
 <div align="center">
@@ -136,6 +135,7 @@ const melkamu = {
 <div align="center">
 
 ![GitHub Trophy](https://github-trophies.vercel.app/?username=Melkamukebede&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 </div>
 
 ---
@@ -144,10 +144,10 @@ const melkamu = {
 
 <div align="center">
 <a href="https://github.com/Melkamukebede/AI-ML-deveeloper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Melkamukebede&repo=AI-ML-deveeloper&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Melkamukebede&repo=AI-ML-deveeloper&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" />
 </a>
 <a href="https://github.com/Melkamukebede/exampro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Melkamukebede&repo=exampro&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Melkamukebede&repo=exampro&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" />
 </a>
 </div>
 
@@ -155,10 +155,10 @@ const melkamu = {
 
 <div align="center">
 <a href="https://github.com/Melkamukebede/markato.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Melkamukebede&repo=markato.com&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Melkamukebede&repo=markato.com&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" />
 </a>
 <a href="https://github.com/Melkamukebede/my-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Melkamukebede&repo=my-portfolio&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Melkamukebede&repo=my-portfolio&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" />
 </a>
 </div>
 
