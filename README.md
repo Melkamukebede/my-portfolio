@@ -7,7 +7,7 @@ export default function Hero() {
         Available for work
       </div>
       <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-white mb-4">
-        Hi, I'm <span className="text-indigo-400">Your Name</span> 👋
+        Hi, I'm <span className="text-indigo-400"></span> 
       </h1>
       <p className="text-lg md:text-xl text-zinc-400 mb-8 max-w-2xl leading-relaxed">
         Frontend / Full Stack Developer passionate about building fast, responsive, and user-centric web applications.
